@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
+  <link href="http://fatihavsan.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://fatihavsan.github.io/"/>
+  <updated>2017-05-25T10:30:18+03:00</updated>
+  <id>http://fatihavsan.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Eklenti Yapımı]]></title>
+    <link href="http://fatihavsan.github.io/blog/2017/05/25/eklenti-yapimi/"/>
+    <updated>2017-05-25T10:25:27+03:00</updated>
+    <id>http://fatihavsan.github.io/blog/2017/05/25/eklenti-yapimi</id>
+    <content type="html"><![CDATA[<h1>A First Level Header</h1>
+
+
+
+
+<h2>A Second Level Header</h2>
+
+
+
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+
+
+
+<p>The quick brown fox jumped over the lazy
+dog's back.</p>
+
+
+
+
+<h3>Header 3</h3>
+
+
+
+
+<blockquote>
+    <p>This is a blockquote.</p>
+
+    <p>This is the second paragraph in the blockquote.</p>
+
+    <h2>This is an H2 in a blockquote</h2>
+</blockquote>
+
+
+
+
+<ul>
+<li>Candy.</li>
+<li>Gum.</li>
+<li>Booze.</li>
+</ul>
+
+
+
+
+<p>I get 10 times more traffic from <a href="http://google.com/"
+title="Google">Google</a> than from <a href="http://search.yahoo.com/"
+title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/"
+title="MSN Search">MSN</a>.</p>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
